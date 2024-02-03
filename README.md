@@ -1,9 +1,9 @@
 # TechTraining
 This Repo contains the summary of the classes for the month.
 
-[how the internet works](internet.txt)
-[Different types of transfer protocols](http.txt)
-[code management](git.txt)
-[ Introduction To Github,repositories](github.txt)
+[internet](internet.txt) how the internet works
+[http](http.txt) Various types of internet protocols
+[git](git.txt) the use of Git for code management
+[github](github.txt) introduction and installation of github
 
 

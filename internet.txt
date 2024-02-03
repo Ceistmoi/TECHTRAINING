@@ -1,5 +1,4 @@
-Throughout the month, the class delved into several interesting topics. One significant highlight was the introduction of the "$1000 DOLLAR TECH secret" document, offering valuable advice on diverse career paths for tech enthusiasts. This document played a crucial role in initiating our first project, "Project AISHA," where we utilized the insights from the $1000 TECH secret to help AISHA find her optimal career path.
-
-The classes also covered the fundamentals of the internet, focusing specifically on browsers and the underlying workings of the internet. Students gained insights into various transfer protocols, including HTTP/HTTPS, TCP, FTP, SMTP, the Domain Name System, and Secure Shell.
-
-We tackled Github with  an introduction to GitHub, GitHub cheat sheets and learned about essential concepts such as repositories, and finally working on our very first repository.
+Students were introduced to the $1000 secret document and were given our very first on how to use
+that to help Aisha find her carreer path .Hence the project AISHA.
+The classes covered the fundamentals of the internet,
+ focusing specifically on browsers and the underlying workings of the internet.
